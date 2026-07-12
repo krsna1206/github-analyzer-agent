@@ -16,7 +16,7 @@ from dataclasses import dataclass, field
 from advancements.logger import logger
 @dataclass
 class AgentState:
-    logger.info("Starting analysis")
+    # logger.info("Starting analysis")
     # User Input
     repo_url: str
     user_prompt: str
@@ -34,3 +34,5 @@ class AgentState:
 
     # Agent Control
     finished: bool = False
+    def __post_init__(self):
+        logger.info(f"Starting analysis for {self.repo_url}")

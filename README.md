@@ -1,4 +1,4 @@
-# REPOINSIGHTER
+# GitAnalyzer
 
 > An AI-powered GitHub repository analyzer that leverages a modular agent architecture to generate repository insights, code reviews, bug analysis, and documentation using Large Language Models.
 
@@ -22,6 +22,10 @@ GitHub Analyzer is an intelligent repository analysis system designed using an *
 The architecture is modular, making it easy to extend with new analysis tools.
 
 ---
+
+## 🎥 Project Demo
+
+[![Preview](https://img.shields.io/badge/▶️-Preview-blue?style=for-the-badge)](https://docs.google.com/videos/d/10ePbamgTDS-uft2g12I0t-GA6BIg3kJFXIzCB_9SPJA/edit?usp=sharing)
 
 # Features
 
