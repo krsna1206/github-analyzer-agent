@@ -91,38 +91,6 @@ flowchart LR
 
 ---
 
-# Project Structure
-
-```
-github-analyzer/
-
-│── analyzer.py
-│── app.py
-│── llm.py
-│── prompts.py
-│── repo_parser.py
-│── requirements.txt
-│
-├── advancements/
-│   ├── dispatcher.py
-│   ├── planner.py
-│   ├── registry.py
-│   ├── state.py
-│   └── tests/
-│
-├── tools/
-│   ├── bugs.py
-│   ├── review.py
-│   ├── readme.py
-│   ├── context_builder.py
-│   ├── context_validator.py
-│   └── repo_context.py
-│
-└── README.md
-```
-
----
-
 # Agent Components
 
 ### Analyzer
