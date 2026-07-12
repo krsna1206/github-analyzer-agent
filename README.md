@@ -193,7 +193,7 @@ The analyzer will generate a structured AI-powered analysis.
 # Technologies Used
 
 - Python
-- Large Language Models (Groq / Ollama)
+- Large Language Models (Ollama)
 - GitHub Repository Parsing
 - Agent-Based Architecture
 - Modular Design Pattern
