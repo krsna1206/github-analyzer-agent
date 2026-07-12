@@ -170,14 +170,11 @@ The analyzer will generate a structured AI-powered analysis.
 
 # Future Improvements
 
+- Deployment for production Access
 - LLM-based Planner
 - Multi-step Agent Loop
 - Retry & Error Recovery
 - Execution History
-- Security Analysis Tool
-- Dependency Analysis
-- Test Generation
-- Web Dashboard
 
 ---
 
